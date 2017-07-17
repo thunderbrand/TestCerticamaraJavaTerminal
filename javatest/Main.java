@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package main;
+package javatest;
 
 import java.util.Scanner;
 import pista.Pista;

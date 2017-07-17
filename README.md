@@ -1,4 +1,6 @@
 # TestCerticamaraJavaTerminal
-Repositorio que contiene le código del desarrollo de la prueba enviada por Certicamara
 
-Contiene la adecuada cantidad de clases para resolver el problema
+-Desarrollado sobre java 1.8
+-Al compilar y ejecutar, una terminal recibe un comando y segun lo suministrado, hace que un objeto vehiculo cambie de posicion
+
+

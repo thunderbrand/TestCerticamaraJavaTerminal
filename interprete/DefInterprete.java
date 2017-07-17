@@ -3,21 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package carro;
+package interprete;
 
 /**
  *
  * @author juan
  */
-public class Carro {
+public interface DefInterprete {
     
-    public String marcaDelCarro()
-	{
-		
-		String marca = "MAZDA";
-		
-		return marca;
-		
-	}
+    public void recibirCom(String com);
     
 }
